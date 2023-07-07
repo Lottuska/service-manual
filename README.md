@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Lottuska/service-manual/main/serviceManualSwaggerScreenshot.png?token=GHSAT0AAAAAACEZ77OHCW2FSB5ZXCXWN3KEZFH7P5Q" width="1000px" />
 
 ## [FIN] Taustatiedot
-Rajapinta laitteiden huoltojen kirjaamiseen. Huoltotoimenpiteet kohidstuvat laitteisiin ja niitä voidaan kategorisoida eri kriittisyysluokkaan. Huoltotehtävällä on tieto huollettavasta laitteesta, sen kirjausajankohdasta, kuvaus huoltotarpeesta, huollon kriittisyysluokka sekä tieto onko huolto tehty vai tekemättä.
+Rajapinta laitteiden huoltojen kirjaamiseen. Huoltotoimenpiteet kohdistuvat laitteisiin ja niitä voidaan kategorisoida eri kriittisyysluokkaan. Huoltotehtävällä on tieto huollettavasta laitteesta, sen kirjausajankohdasta, kuvaus huoltotarpeesta, huollon kriittisyysluokka sekä tieto onko huolto tehty vai tekemättä.
 
 ## [FIN] Rajapinnan toiminnot
 - Hakea laitteita
