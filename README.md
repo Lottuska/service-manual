@@ -46,3 +46,8 @@ To make this app run in Development mode and be able to inspect its endpoints wi
 7. Inside **EtteplanMORE.ServiceManual.Web** run ```dotnet run --environment "Development"``` to start application.
    - Notice that this seeds the database with 1000 rows of 'FactoryDevice' data and 5 rows of example 'MaintenanceTask' data, but only if the tables are empty!
 8. Navigate yourself to [http://localhost:5000/swagger/index.html](http://localhost:5000/swagger/index.html) or [https://localhost:5001/swagger/index.html](https://localhost:5001/swagger/index.html) or any other suggested port and start exploring the available endpoints! :smile:
+
+## Own notes
+- Proper error handling: Currently some of the error codes and exceptions are a bit off
+- Dtos folder was originally inside Web, should try to move it back
+- Usage of enums: Should they be returned as strings instead of ints? How does front-end know what does e.g. CriticalityLevel = 1 mean?
