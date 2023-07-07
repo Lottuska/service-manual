@@ -16,7 +16,7 @@ Rajapinta laitteiden huoltojen kirjaamiseen. Huoltotoimenpiteet kohdistuvat lait
 - Poistaa valittu huoltotehtävä
 
 ## [ENG] Background information
-API for recording device maintenance. The maintenance tasks are focused on devices anc can be categorized into different criticality levels. The maintenance task has information about the serviced device, its recording time, a description of the needed maintenance, the criticality level and information about whether the task has been done or not.
+API for recording device maintenance. The maintenance tasks are focused on devices and can be categorized into different criticality levels. The maintenance task has information about the serviced device, its recording time, a description of the needed maintenance, the criticality level and information about whether the task has been done or not.
 
 ## [ENG] API endpoints for
 - GET all devices
