@@ -4,7 +4,7 @@
 # Appsettings
 */appsettings.Development.json
 **/appsettings.Development.json
-EtteplanMORE.ServiceManual.Web\appsettings.Development.json
+EtteplanMORE.ServiceManual.Web/appsettings.Development.json
 
 # Vim temp files
 *.*~
